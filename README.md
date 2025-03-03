@@ -1,5 +1,5 @@
 
-![HITL](hitl.png)
+![HITL](tools.png)
 
 ## Getting Started
 
