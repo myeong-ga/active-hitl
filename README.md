@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, 
+.env.local.example 을 .env.local로 copy 하고 llm provider 에 맞게 API Key 값을 세팅
+
+run the development server:
 
 ```bash
 npm run dev
